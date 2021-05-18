@@ -1,0 +1,2 @@
+rootProject.name = "2 to 10 table"
+include ':app'
